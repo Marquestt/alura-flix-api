@@ -13,6 +13,13 @@
                     "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!",
                     "video": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=gky-aJ6pTPum8cPG",
                     "capa": "https://veduca.org/wp-content/uploads/2024/03/Alura-oferece-60-mil-vagas-em-cursos-gratuitos-de-Python-e-analise-de-dados.jpg"
+                },
+                {
+                    "id": 2139,
+                    "nome": "Como criar um projeto em React e Typescript para seu Portfólio? | Hipsters: Portfólio Dev",
+                    "descricao": "Neste episódio, temos o prazer de ter como nosso convidado Mario Souto, líder de Front-end no Nubank.",
+                    "video": "https://www.youtube.com/embed/NpS2PksdMCc?si=HlQ4Itn264JKuZru",
+                    "capa": "https://tm.ibxk.com.br/2022/11/20/20165657757002.jpg"
                 }
             ]
         },
